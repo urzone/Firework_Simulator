@@ -58,10 +58,10 @@ const SKY_LIGHT_DIM = 1;
 const SKY_LIGHT_NORMAL = 2;
 
 const COLOR = {
-	Red: "#ff0043",
-	Green: "#14fc56",
+	Red: "#ff1744",
+	Green: "#76ff03",
 	Blue: "#1e7fff",
-	Purple: "#e60aff",
+	Purple: "#ff00ff",
 	Gold: "#ffbf36",
 	White: "#ffffff",
 };
